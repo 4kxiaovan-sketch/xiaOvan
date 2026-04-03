@@ -1,0 +1,9 @@
+{
+  "id": "nation_daily_draw_rule",
+  "free_draw_per_day": 10,
+  "targeted_draw_cost": 2,
+  "ten_draw_cost": 10,
+  "pity_s_threshold": 20,
+  "pity_sss_threshold": 60,
+  "pity_sss_boost_rate": 0.15
+}

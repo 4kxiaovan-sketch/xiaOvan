@@ -7,6 +7,7 @@ const CreateFactionPage = () => import('@/pages/CreateFactionPage.vue');
 const FactionPage = () => import('@/pages/FactionPage.vue');
 const MapPage = () => import('@/pages/MapPage.vue');
 const ReportsPage = () => import('@/pages/ReportsPage.vue');
+const DrawLabPage = () => import('@/pages/DrawLabPage.vue');
 
 const router = createRouter({
   history: createWebHashHistory(),
@@ -45,6 +46,12 @@ const router = createRouter({
       path: '/reports',
       name: 'reports',
       component: ReportsPage,
+      meta: { requiresAuth: true }
+    },
+    {
+      path: '/draw-lab',
+      name: 'draw-lab',
+      component: DrawLabPage,
       meta: { requiresAuth: true }
     }
   ]

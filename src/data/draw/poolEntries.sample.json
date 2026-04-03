@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pool_ruler_basic_qin_shi_huang",
+    "pool_id": "pool_ruler_basic",
+    "character_id": "qin_shi_huang",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "一统六合",
+    "skill_desc": "提高国家扩张速度与征服收益。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_ruler_basic_liu_bang",
+    "pool_id": "pool_ruler_basic",
+    "character_id": "liu_bang",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "汉初开国",
+    "skill_desc": "提升建国期民心与人才归附概率。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_ruler_basic_cao_cao",
+    "pool_id": "pool_ruler_basic",
+    "character_id": "cao_cao",
+    "rarity": "S",
+    "weight": 6,
+    "is_limited": false,
+    "skill_name": "挟天子令诸侯",
+    "skill_desc": "提高外交压制和正统收益。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_domestic_basic_shang_yang",
+    "pool_id": "pool_domestic_basic",
+    "character_id": "shang_yang",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "变法强国",
+    "skill_desc": "提高内政执行力和资源转化效率。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_diplomat_basic_zhang_yi",
+    "pool_id": "pool_diplomat_basic",
+    "character_id": "zhang_yi",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "连横破局",
+    "skill_desc": "提升离间与破盟成功率。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_strategist_basic_zhu_ge_liang",
+    "pool_id": "pool_strategist_basic",
+    "character_id": "zhu_ge_liang",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "运筹帷幄",
+    "skill_desc": "大幅提高战术成功率与远征稳定性。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_general_basic_yue_fei",
+    "pool_id": "pool_general_basic",
+    "character_id": "yue_fei",
+    "rarity": "SSS",
+    "weight": 1,
+    "is_limited": false,
+    "skill_name": "精忠岳家军",
+    "skill_desc": "提高主力军作战力与士气保持能力。",
+    "mvp_open": true
+  },
+  {
+    "id": "pool_all_basic_liu_bei",
+    "pool_id": "pool_all_basic",
+    "character_id": "liu_bei",
+    "rarity": "A",
+    "weight": 18,
+    "is_limited": false,
+    "skill_name": "仁德聚众",
+    "skill_desc": "提高民心恢复与人才招募成功率。",
+    "mvp_open": true
+  }
+]

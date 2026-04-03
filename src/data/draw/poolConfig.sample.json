@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pool_all_basic",
+    "name": "天下群英池",
+    "pool_type": "all",
+    "position_code": null,
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  },
+  {
+    "id": "pool_ruler_basic",
+    "name": "君主招募池",
+    "pool_type": "position",
+    "position_code": "ruler",
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  },
+  {
+    "id": "pool_domestic_basic",
+    "name": "内政贤臣池",
+    "pool_type": "position",
+    "position_code": "domestic",
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  },
+  {
+    "id": "pool_diplomat_basic",
+    "name": "纵横使节池",
+    "pool_type": "position",
+    "position_code": "diplomat",
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  },
+  {
+    "id": "pool_strategist_basic",
+    "name": "军师谋臣池",
+    "pool_type": "position",
+    "position_code": "strategist",
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  },
+  {
+    "id": "pool_general_basic",
+    "name": "将军统帅池",
+    "pool_type": "position",
+    "position_code": "general",
+    "open": true,
+    "daily_free_limit": 10,
+    "pity_s_count": 20,
+    "pity_sss_count": 60,
+    "ten_draw_a_guarantee": true
+  }
+]

@@ -76,6 +76,17 @@ const __VLS_14 = __VLS_13({
 }, ...__VLS_functionalComponentArgsRest(__VLS_13));
 __VLS_15.slots.default;
 var __VLS_15;
+const __VLS_16 = {}.RouterLink;
+/** @type {[typeof __VLS_components.RouterLink, typeof __VLS_components.RouterLink, ]} */ ;
+// @ts-ignore
+const __VLS_17 = __VLS_asFunctionalComponent(__VLS_16, new __VLS_16({
+    to: "/draw-lab",
+}));
+const __VLS_18 = __VLS_17({
+    to: "/draw-lab",
+}, ...__VLS_functionalComponentArgsRest(__VLS_17));
+__VLS_19.slots.default;
+var __VLS_19;
 __VLS_asFunctionalElement(__VLS_intrinsicElements.div, __VLS_intrinsicElements.div)({
     ...{ class: "user-area" },
 });

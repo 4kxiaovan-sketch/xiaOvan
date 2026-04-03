@@ -10,6 +10,7 @@
       <RouterLink to="/faction">政权</RouterLink>
       <RouterLink to="/map">地图</RouterLink>
       <RouterLink to="/reports">战报</RouterLink>
+      <RouterLink to="/draw-lab">抽卡测试</RouterLink>
     </nav>
 
     <div class="user-area">
