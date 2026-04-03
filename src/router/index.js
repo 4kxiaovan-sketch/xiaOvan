@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import { supabase } from '@/lib/supabase';
 const LoginPage = () => import('@/pages/LoginPage.vue');
 const HomePage = () => import('@/pages/HomePage.vue');
@@ -7,7 +7,7 @@ const FactionPage = () => import('@/pages/FactionPage.vue');
 const MapPage = () => import('@/pages/MapPage.vue');
 const ReportsPage = () => import('@/pages/ReportsPage.vue');
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),
     routes: [
         {
             path: '/login',
